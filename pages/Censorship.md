@@ -1,6 +1,7 @@
 ---
-title: About
+title: Censorship
 layout: about
-permalink: /about.html
+permalink: /Censorship.html
 credits: true
 ---
+Coming Soon...
