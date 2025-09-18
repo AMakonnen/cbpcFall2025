@@ -1,6 +1,7 @@
 ---
-title: About
+title: Glorifying Superman
 layout: about
-permalink: /about.html
+permalink: /Superman.html
 credits: true
 ---
+Coming Soon...
