@@ -3,7 +3,7 @@ title: The Golden Age of Comics
 layout: about
 permalink: /Golden.html
 credits: true
-
+---
 # The Golden Age of Comics
 The Golden Age of Comics refers to the period of time in American comic book history from 1938 (with the first appearance of Superman) to 1954 (introduction of the Comics Code). This period is often characterized by the emergence of superheroes into mainstream media, vibrant and colorful artistic choices, and the post-WWII surge in popularity of crime and horror genres. 
 
