@@ -1,5 +1,5 @@
 ---
-title: Background
+title: The Golden Age
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
