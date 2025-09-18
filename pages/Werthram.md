@@ -1,7 +1,7 @@
 ---
-title: About
+title: Frederic Werthram and The Senate Comic Book Hearings of 1954
 layout: about
-permalink: /about.html
+permalink: /Werthram.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
