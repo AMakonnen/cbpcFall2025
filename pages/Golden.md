@@ -2,26 +2,10 @@
 title: The Golden Age of Comics
 layout: about
 permalink: /Golden.html
-# include CollectionBuilder info at bottom
 credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
----
 
-{% include feature/jumbotron.html objectid="id=coll054" %}
+{% include feature/image.html objectid="coll050" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+The Golden Age of Comics refers to the period of time in American comic book history from 1938 (with the first appearance of Superman) to 1954 (introduction of the Comics Code). This period is often characterized by the emergence of superheroes into mainstream media, vibrant and colorful artistic choices, and the post-WWII surge in popularity of crime and horror genres. 
 
-## About the Collection
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This time was also defined by many patriotic heroes sporting red, white, and blue as a result of WWII and the sentiments surrounding it. Associated with the rise of patriotism brought about by WWII, many well-known superhero comics publishing companies originated during the Golden Age, including Archie Comics, Detective Comics (now known as DC Comics), and Timely Comics (later to become Marvel Comics), and gained popularity quickly! 
