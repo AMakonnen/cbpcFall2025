@@ -1,6 +1,7 @@
 ---
-title: About
+title: Violence
 layout: about
-permalink: /about.html
+permalink: /Violence.html
 credits: true
 ---
+Coming Soon...
