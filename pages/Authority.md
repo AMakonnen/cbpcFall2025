@@ -1,7 +1,7 @@
 ---
 title: Authority
 layout: about
-permalink: /about.html
+permalink: /Authority.html
 credits: true
 ---
 Coming Soon...
