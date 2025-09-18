@@ -1,9 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/
+About,/about.html
 Browse,/browse.html
 Comic Code Violations,/subjects.html
 Timeline,/timeline.html
 Data,/data.html
 Background,,
-About,/about.html,Background
 TheGoldenAge,/TheGoldenAge.html,Background
