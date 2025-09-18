@@ -2,7 +2,7 @@ display_name,stub,dropdown_parent
 Home,/
 About,/about.html
 Browse,/browse.html
-Comic Code Violations,/subjects.html
+Word Cloud,/subjects.html
 Timeline,/timeline.html
 Data,/data.html
 Background,,
@@ -10,3 +10,9 @@ The Golden Age,/Golden.html,Background
 Crime and Horror Comics,/Crime.html,Background
 Romance Comics,/Romance.html,Background
 Superhero Comics,/Superhero.html,Background
+Essays,,
+Violence,/Violence.html,Essays
+Censorship,/Censorship.html,Essays
+Respect for Authority,/Authority.html,Essays
+Glorifying Superman,/Superman.html,Essays
+Fear and Anxiety/Anxiety.html,Essays
