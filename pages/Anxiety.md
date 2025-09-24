@@ -25,4 +25,4 @@ When analyzing a page from the comic book “Tales From The Crypt no. 42,” pub
 
 The comic code violations in this page alone include A.6 (evil shall not triumph over good; the protagonist gets eaten), A.8 (weapons shall not be concealed in unique ways; a gun is concealed in a violin case), B.3 (gruesome images will be eliminated; it depicts the main character getting eaten pretty clearly, B.4 (stories with evil shall teach some kind of lesson; the story doesn’t), and B.5 (werewolves, vampires, and other monsters of the sort are prohibited; there are werewolves in the story); while the comic code was not implemented on comics until after the publication of “Tales of the Crypt no. 42,” it makes sense that people would be concerned by the imagery and how it could corrupt the youth.
 
-{% include feature/image.html objectid="coll026" width="75" %}
+{% include feature/image.html objectid="coll061" width="75" %}
