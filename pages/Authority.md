@@ -6,4 +6,4 @@ credits: true
 ---
 Coming Soon...
 
-{% include feature/image.html objectid="coll026" width="75" %}
+{% include feature/image.html objectid="coll059" width="75" %}
